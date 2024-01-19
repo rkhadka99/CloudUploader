@@ -1,9 +1,7 @@
 ## CloudUploader
 This is a bash CLI tool that allows you to upload files to AWS S3.
 
-## S3 File Upload Tool
-
-## Overview
+## S3 File Uploader
 
 A Bash-based CLI tool for uploading files to an S3 bucket. 
 
